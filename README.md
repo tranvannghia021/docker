@@ -34,5 +34,5 @@
 
 <p>DB_PASSWORD=123456</p>
 ## run
-- docker build ./docker
+- docker build ./docker <br/>
 - docker-compose up -d
