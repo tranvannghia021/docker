@@ -33,3 +33,6 @@
 <p>DB_USERNAME=root</p>
 
 <p>DB_PASSWORD=123456</p>
+## run
+- docker build ./docker
+- docker-compose up -d
